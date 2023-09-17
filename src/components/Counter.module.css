@@ -36,6 +36,7 @@
 
 .counterBtns {
   display: flex;
+  flex-wrap: wrap;
   gap: 20px;
   margin-bottom: 20px;
   width: 90%;
